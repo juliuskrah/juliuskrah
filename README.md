@@ -1,4 +1,8 @@
-### Hi there 👋
+Developer extraordinaire champoining open code.
+
+I maintain a blog post at [Software Musings](https://juliuskrah.com) where I write all things `code`.
+
+// -- more info coming soon
 
 <!--
 **juliuskrah/juliuskrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
