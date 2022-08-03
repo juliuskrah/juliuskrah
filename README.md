@@ -1,8 +1,10 @@
 Developer extraordinaire champoining open code.
 
-I maintain a blog post at [Software Musings](https://juliuskrah.com) where I write all things `code`.
+Julius Krah is a Cloud Architect who has been assisting organizations migrate their workloads to the cloud; On my off hours I maintain a blog at [Software Musings](https://juliuskrah.com) where I write about all things `code`.
 
-// -- more info coming soon
+- 👯 I’m looking to collaborate on anything interesting
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love movies
 
 <!--
 **juliuskrah/juliuskrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
