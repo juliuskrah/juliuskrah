@@ -3,7 +3,6 @@ Developer extraordinaire champoining open code.
 Julius Krah is a Cloud Architect who has been assisting organizations migrate their workloads to the cloud; On my off hours I maintain a blog at [Software Musings](https://juliuskrah.com) where I write about all things `code`.
 
 - 👯 I’m looking to collaborate on anything interesting
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love movies
 
 <!--
